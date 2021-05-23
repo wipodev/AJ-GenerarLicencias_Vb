@@ -6,4 +6,11 @@
 
 Aplicacion para Generar un licencia publica y pribada para ser utilizada en sus proyectos.
 
-MontarDiscos tiene [licencia MIT](https://github.com/AJ-Wi/AJ-GenerarLicencias_Vb/blob/master/LICENCE), requiere .NET 2.0 y está en español.
+## Requisitos
+
+- **.net Framework v4.0**
+- **Visual Studio 2010**
+
+## Licencia
+
+Generador de Licencia tiene [licencia MIT](https://github.com/AJ-Wi/AJ-GenerarLicencias_Vb/blob/master/LICENCE), requiere .NET 2.0 y está en español.
