@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/AJ-Wi/AJ-Wi.github.io/blob/master/images/AJ-Wi.svg" width="300" title="AJ-Wi">
+    <img src="https://github.com/wipodev/wipodev/blob/main/assets/logo-main.svg" width="300" title="AJ-Wi">
 </p>
 
 # Generador de Licencias (Publica/Privada).
